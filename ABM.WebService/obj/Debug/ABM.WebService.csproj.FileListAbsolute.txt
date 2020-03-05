@@ -1,0 +1,9 @@
+E:\ABMAssignment\ABM.WebService\bin\ABM.WebService.dll.config
+E:\ABMAssignment\ABM.WebService\bin\ABM.WebService.dll
+E:\ABMAssignment\ABM.WebService\bin\ABM.WebService.pdb
+E:\ABMAssignment\ABM.WebService\bin\ABM.Core.dll
+E:\ABMAssignment\ABM.WebService\bin\ABM.Core.pdb
+E:\ABMAssignment\ABM.WebService\obj\Debug\ABM.WebService.csprojAssemblyReference.cache
+E:\ABMAssignment\ABM.WebService\obj\Debug\ABM.WebService.csproj.CopyComplete
+E:\ABMAssignment\ABM.WebService\obj\Debug\ABM.WebService.dll
+E:\ABMAssignment\ABM.WebService\obj\Debug\ABM.WebService.pdb

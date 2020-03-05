@@ -1,0 +1,9 @@
+E:\ABMAssignment\ABM.EdiFact.Client\bin\Debug\ABM.EdiFact.Client.exe.config
+E:\ABMAssignment\ABM.EdiFact.Client\bin\Debug\ABM.EdiFact.Client.exe
+E:\ABMAssignment\ABM.EdiFact.Client\bin\Debug\ABM.EdiFact.Client.pdb
+E:\ABMAssignment\ABM.EdiFact.Client\bin\Debug\ABM.Core.dll
+E:\ABMAssignment\ABM.EdiFact.Client\bin\Debug\ABM.Core.pdb
+E:\ABMAssignment\ABM.EdiFact.Client\obj\Debug\ABM.EdiFact.Client.csprojAssemblyReference.cache
+E:\ABMAssignment\ABM.EdiFact.Client\obj\Debug\ABM.EdiFact.Client.csproj.CopyComplete
+E:\ABMAssignment\ABM.EdiFact.Client\obj\Debug\ABM.EdiFact.Client.exe
+E:\ABMAssignment\ABM.EdiFact.Client\obj\Debug\ABM.EdiFact.Client.pdb

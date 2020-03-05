@@ -1,0 +1,7 @@
+E:\ABMAssignment\ABM.WebService.Consumer\bin\Debug\Payload.xml
+E:\ABMAssignment\ABM.WebService.Consumer\bin\Debug\ABM.WebService.Consumer.exe.config
+E:\ABMAssignment\ABM.WebService.Consumer\bin\Debug\ABM.WebService.Consumer.exe
+E:\ABMAssignment\ABM.WebService.Consumer\bin\Debug\ABM.WebService.Consumer.pdb
+E:\ABMAssignment\ABM.WebService.Consumer\obj\Debug\ABM.WebService.Consumer.exe
+E:\ABMAssignment\ABM.WebService.Consumer\obj\Debug\ABM.WebService.Consumer.pdb
+E:\ABMAssignment\ABM.WebService.Consumer\obj\Debug\ABM.WebService.Consumer.csprojAssemblyReference.cache

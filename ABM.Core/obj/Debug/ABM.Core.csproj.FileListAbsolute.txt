@@ -1,0 +1,5 @@
+E:\ABMAssignment\ABM.Core\bin\Debug\ABM.Core.dll
+E:\ABMAssignment\ABM.Core\bin\Debug\ABM.Core.pdb
+E:\ABMAssignment\ABM.Core\obj\Debug\ABM.Core.dll
+E:\ABMAssignment\ABM.Core\obj\Debug\ABM.Core.pdb
+E:\ABMAssignment\ABM.Core\obj\Debug\ABM.Core.csprojAssemblyReference.cache

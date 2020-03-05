@@ -1,0 +1,10 @@
+E:\ABMAssignment\ABM.RefText.Client\bin\Debug\ReferenceText.xml
+E:\ABMAssignment\ABM.RefText.Client\bin\Debug\ABM.RefText.Client.exe.config
+E:\ABMAssignment\ABM.RefText.Client\bin\Debug\ABM.RefText.Client.exe
+E:\ABMAssignment\ABM.RefText.Client\bin\Debug\ABM.RefText.Client.pdb
+E:\ABMAssignment\ABM.RefText.Client\bin\Debug\ABM.Core.dll
+E:\ABMAssignment\ABM.RefText.Client\bin\Debug\ABM.Core.pdb
+E:\ABMAssignment\ABM.RefText.Client\obj\Debug\ABM.RefText.Client.csprojAssemblyReference.cache
+E:\ABMAssignment\ABM.RefText.Client\obj\Debug\ABM.RefText.Client.csproj.CopyComplete
+E:\ABMAssignment\ABM.RefText.Client\obj\Debug\ABM.RefText.Client.exe
+E:\ABMAssignment\ABM.RefText.Client\obj\Debug\ABM.RefText.Client.pdb
